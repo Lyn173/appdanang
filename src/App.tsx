@@ -236,6 +236,7 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="text-sm text-gray-400">
             © 2026 AI Rental Video Assistant. All rights reserved.
+            <p className="mt-1">Bản quyền thuộc về Thùy Ngân</p>
           </div>
           <div className="flex items-center gap-6">
             <span className="text-xs font-medium text-gray-400 uppercase tracking-widest">Xây dựng cho tương lai bất động sản</span>
