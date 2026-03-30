@@ -235,7 +235,7 @@ export default function App() {
       <footer className="mt-24 py-12 border-t border-gray-100 bg-white">
         <div className="max-w-5xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="text-sm text-gray-400">
-            © 2026 AI Rental Video Assistant. All rights reserved.
+            © 2026 AI DESIGN.
             <p className="mt-1">Bản quyền thuộc về Thùy Ngân</p>
           </div>
           <div className="flex items-center gap-6">
